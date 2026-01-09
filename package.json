@@ -1,0 +1,15 @@
+{
+  "name": "zanta-ai",
+  "version": "1.0.0",
+  "description": "ZANTA AI Web Chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
